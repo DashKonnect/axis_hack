@@ -2,3 +2,5 @@ numpy
 matplotlib
 opencv-python
 pdf2image
+beautifulsoup4
+pillow
